@@ -22,7 +22,7 @@ Wanderlust Explorer is a responsive travel website that showcases popular destin
 
 ## Live Website
 
-[View Live Website](https://your-username.github.io/travel-explorer/)
+[View Live Website](https://rishi-ray.github.io/Travel-Site/)
 
 ## Installation
 
