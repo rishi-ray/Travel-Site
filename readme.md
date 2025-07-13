@@ -1,4 +1,4 @@
-# Wanderlust Explorer - Interactive Travel Destination Website
+# Wanderlust Explorer - Travel Destination Website
 
 ## Project Description
 
